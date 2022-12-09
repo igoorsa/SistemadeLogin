@@ -1,0 +1,12 @@
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.exe.config
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.exe
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\bin\Debug\SistemaDeLogin.pdb
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.AssemblyReference.cache
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.SuggestedBindingRedirects.cache
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Form1.resources
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Properties.Resources.resources
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.GenerateResource.cache
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.csproj.CoreCompileInputs.cache
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.exe
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.pdb
+E:\Curso C#\Aulas\SistemaDeLogin\SistemaDeLogin\obj\Debug\SistemaDeLogin.Login.resources
